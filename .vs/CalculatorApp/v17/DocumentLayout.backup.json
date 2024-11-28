@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tsotne\\OneDrive\\Desktop\\ItStepAcademyProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27322153-5517-42CB-985D-D98DD87AACB2}|BookManagerApp\\BookManagerApp.csproj|c:\\users\\tsotne\\onedrive\\desktop\\itstepacademyprojects\\bookmanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27322153-5517-42CB-985D-D98DD87AACB2}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27322153-5517-42CB-985D-D98DD87AACB2}|BookManagerApp\\BookManagerApp.csproj|c:\\users\\tsotne\\onedrive\\desktop\\itstepacademyprojects\\bookmanagerapp\\classes\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27322153-5517-42CB-985D-D98DD87AACB2}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\classes\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27322153-5517-42CB-985D-D98DD87AACB2}|BookManagerApp\\BookManagerApp.csproj|c:\\users\\tsotne\\onedrive\\desktop\\itstepacademyprojects\\bookmanagerapp\\classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27322153-5517-42CB-985D-D98DD87AACB2}|BookManagerApp\\BookManagerApp.csproj|solutionrelative:bookmanagerapp\\classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\Tsotne\\OneDrive\\Desktop\\ItStepAcademyProjects\\BookManagerApp\\Classes\\BookManager.cs",
+              "RelativeDocumentMoniker": "BookManagerApp\\Classes\\BookManager.cs",
+              "ToolTip": "C:\\Users\\Tsotne\\OneDrive\\Desktop\\ItStepAcademyProjects\\BookManagerApp\\Classes\\BookManager.cs",
+              "RelativeToolTip": "BookManagerApp\\Classes\\BookManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:30:50.299Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Tsotne\\OneDrive\\Desktop\\ItStepAcademyProjects\\BookManagerApp\\Classes\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagerApp\\Classes\\Book.cs",
+              "ToolTip": "C:\\Users\\Tsotne\\OneDrive\\Desktop\\ItStepAcademyProjects\\BookManagerApp\\Classes\\Book.cs",
+              "RelativeToolTip": "BookManagerApp\\Classes\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:30:16.037Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tsotne\\OneDrive\\Desktop\\ItStepAcademyProjects\\BookManagerApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Tsotne\\OneDrive\\Desktop\\ItStepAcademyProjects\\BookManagerApp\\Program.cs",
+              "RelativeToolTip": "BookManagerApp\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:07:27.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

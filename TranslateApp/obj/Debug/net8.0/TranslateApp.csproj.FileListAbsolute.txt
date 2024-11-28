@@ -1,0 +1,14 @@
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\bin\Debug\net8.0\TranslateApp.exe
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\bin\Debug\net8.0\TranslateApp.deps.json
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\bin\Debug\net8.0\TranslateApp.runtimeconfig.json
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\bin\Debug\net8.0\TranslateApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\bin\Debug\net8.0\TranslateApp.pdb
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\obj\Debug\net8.0\TranslateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\obj\Debug\net8.0\TranslateApp.AssemblyInfoInputs.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\obj\Debug\net8.0\TranslateApp.AssemblyInfo.cs
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\obj\Debug\net8.0\TranslateApp.csproj.CoreCompileInputs.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\obj\Debug\net8.0\TranslateApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\obj\Debug\net8.0\refint\TranslateApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\obj\Debug\net8.0\TranslateApp.pdb
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\obj\Debug\net8.0\TranslateApp.genruntimeconfig.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\TranslateApp\obj\Debug\net8.0\ref\TranslateApp.dll

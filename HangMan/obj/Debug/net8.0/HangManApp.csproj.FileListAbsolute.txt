@@ -1,0 +1,14 @@
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\bin\Debug\net8.0\HangManApp.exe
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\bin\Debug\net8.0\HangManApp.deps.json
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\bin\Debug\net8.0\HangManApp.runtimeconfig.json
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\bin\Debug\net8.0\HangManApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\bin\Debug\net8.0\HangManApp.pdb
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\obj\Debug\net8.0\HangManApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\obj\Debug\net8.0\HangManApp.AssemblyInfoInputs.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\obj\Debug\net8.0\HangManApp.AssemblyInfo.cs
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\obj\Debug\net8.0\HangManApp.csproj.CoreCompileInputs.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\obj\Debug\net8.0\HangManApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\obj\Debug\net8.0\refint\HangManApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\obj\Debug\net8.0\HangManApp.pdb
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\obj\Debug\net8.0\HangManApp.genruntimeconfig.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangMan\obj\Debug\net8.0\ref\HangManApp.dll

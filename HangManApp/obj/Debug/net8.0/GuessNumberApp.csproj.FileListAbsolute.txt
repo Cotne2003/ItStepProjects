@@ -1,0 +1,14 @@
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\bin\Debug\net8.0\GuessNumberApp.exe
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\bin\Debug\net8.0\GuessNumberApp.deps.json
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\bin\Debug\net8.0\GuessNumberApp.runtimeconfig.json
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\bin\Debug\net8.0\GuessNumberApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\bin\Debug\net8.0\GuessNumberApp.pdb
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\obj\Debug\net8.0\GuessNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\obj\Debug\net8.0\GuessNumberApp.AssemblyInfoInputs.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\obj\Debug\net8.0\GuessNumberApp.AssemblyInfo.cs
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\obj\Debug\net8.0\GuessNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\obj\Debug\net8.0\GuessNumberApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\obj\Debug\net8.0\refint\GuessNumberApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\obj\Debug\net8.0\GuessNumberApp.pdb
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\obj\Debug\net8.0\GuessNumberApp.genruntimeconfig.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\HangManApp\obj\Debug\net8.0\ref\GuessNumberApp.dll

@@ -1,0 +1,14 @@
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\obj\Debug\net8.0\BookManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\obj\Debug\net8.0\BookManagerApp.AssemblyInfoInputs.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\obj\Debug\net8.0\BookManagerApp.AssemblyInfo.cs
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\obj\Debug\net8.0\BookManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\bin\Debug\net8.0\BookManagerApp.exe
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\bin\Debug\net8.0\BookManagerApp.deps.json
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\bin\Debug\net8.0\BookManagerApp.runtimeconfig.json
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\bin\Debug\net8.0\BookManagerApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\bin\Debug\net8.0\BookManagerApp.pdb
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\obj\Debug\net8.0\BookManagerApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\obj\Debug\net8.0\refint\BookManagerApp.dll
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\obj\Debug\net8.0\BookManagerApp.pdb
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\obj\Debug\net8.0\BookManagerApp.genruntimeconfig.cache
+C:\Users\Tsotne\OneDrive\Desktop\ItStepAcademyProjects\BookManagerApp\obj\Debug\net8.0\ref\BookManagerApp.dll
